@@ -91,7 +91,9 @@ Job Satisfaction vs. Attrition — Correlation between satisfaction scores and e
 HR-Attrition-Analytics/
 │
 ├── HR_Data.xlsx                    # Raw dataset (1,470 employee records)
+
 ├── HR_Dashboard_project_powerbi.pbix  # Power BI dashboard file
+
 └── README.md                       # Project documentation
 
 
@@ -108,6 +110,11 @@ HR-Attrition-Analytics/
 
 
 🖥️ Dashboard Preview :
+
+
+
+<img width="1366" height="768" alt="HR Attrition project screenshot" src="https://github.com/user-attachments/assets/78726990-2895-4c40-975a-4dd09b97ab43" />
+
 
 
 Open HR_Dashboard_project_powerbi.pbix in Power BI Desktop to explore the interactive dashboard.
