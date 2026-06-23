@@ -38,50 +38,50 @@ Key Columns :
 
 Column                                                     Description
 
-Attrition                                                 Whether the employee left (Yes/No)
-CF_attrition label                                        Current Employee / Ex-Employee
-Department                                                R&D, Sales, HR
-Job Role                                                  Sales Executive, Research Scientist, Lab Technician, etc.
-Age / CF_age band                                         Employee age and age group
-Gender                                                    Male / Female
-Marital Status                                            Single, Married, Divorced
-Monthly Income                                            Employee monthly salary
-Job Satisfaction                                          Rating 1–4
-Environment Satisfaction                                  Rating 1–4
-Work Life Balance                                         Rating 1–4
-Over Time                                                 Yes / No
-Business Travel                                           Non-Travel / Travel_Rarely / Travel_Frequently
-Years At Company                                          Total tenure
-Distance From Home                                        Commute distance
-Education                                                 Associates / Bachelor's / Master's / PhD
-Education Field                                           Life Sciences, Medical, Marketing, Technical Degree, etc.
-Performance Rating                                        Employee performance score
-Stock Option Level                                        0–3
+Attrition                                   -              Whether the employee left (Yes/No),
+CF_attrition label                          -             Current Employee / Ex-Employee,
+Department                                  -              R&D, Sales, HR,
+Job Role                                    -              Sales Executive, Research Scientist, Lab Technician, etc.,
+Age / CF_age band                           -              Employee age and age group,
+Gender                                      -              Male / Female,
+Marital Status                              -              Single, Married, Divorced,
+Monthly Income                              -              Employee monthly salary,
+Job Satisfaction                            -              Rating 1–4,
+Environment Satisfaction                    -              Rating 1–4,
+Work Life Balance                           -              Rating 1–4,
+Over Time                                   -              Yes / No,
+Business Travel                             -              Non-Travel / Travel_Rarely / Travel_Frequently,
+Years At Company                            -              Total tenure,
+Distance From Home                          -              Commute distance,
+Education                                   -              Associates / Bachelor's / Master's / PhD,
+Education Field                             -              Life Sciences, Medical, Marketing, Technical Degree, etc.,
+Performance Rating                          -              Employee performance score,
+Stock Option Level                          -              0–3
 
 
 🛠️ Tools & Technologies :
 
 Tool                               Usage
-Power BI                       Dashboard creation & data visualization
-Power Query                    Data transformation & cleaning
-Microsoft Excel                Data exploration & pre-processing
-DAX                            Calculated measures & KPIs
-Snowflake                      Cloud Data Warehouse
-SQL                            Writing Queries
-Tableau                        Data Visualization
+Power BI        :               Dashboard creation & data visualization,
+Power Query     :               Data transformation & cleaning,
+Microsoft Excel :               Data exploration & pre-processing,
+DAX             :               Calculated measures & KPIs,
+Snowflake       :               Cloud Data Warehouse,
+SQL             :               Writing Queries,
+Tableau         :               Data Visualization
 
 📈 Key KPIs & Measures :
 
 
-Attrition Rate (%) — Total employees who left / Total employee count
-Active Employees Count — Current headcount
-Average Age — Mean age across workforce
-Average Monthly Income — Compensation analysis by role/department
-Attrition by Department — Department-wise turnover breakdown
-Attrition by Age Band — Identifies high-risk age groups
-Attrition by Job Role — Role-level exit patterns
-Attrition by Gender — Gender-based attrition comparison
-Overtime Impact — Attrition rate among employees working overtime vs. not
+Attrition Rate (%) — Total employees who left / Total employee count,
+Active Employees Count — Current headcount,
+Average Age — Mean age across workforce,
+Average Monthly Income — Compensation analysis by role/department,
+Attrition by Department — Department-wise turnover breakdown,
+Attrition by Age Band — Identifies high-risk age groups,
+Attrition by Job Role — Role-level exit patterns,
+Attrition by Gender — Gender-based attrition comparison,
+Overtime Impact — Attrition rate among employees working overtime vs. not,
 Job Satisfaction vs. Attrition — Correlation between satisfaction scores and exit
 
 
